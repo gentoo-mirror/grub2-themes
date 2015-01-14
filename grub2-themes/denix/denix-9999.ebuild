@@ -10,13 +10,11 @@ DESCRIPTION="Grub2 GFX theme for DeniX OS"
 HOMEPAGE="https://github.com/denix666/denix-grub2-theme"
 EGIT_REPO_URI="https://github.com/denix666/denix-grub2-theme.git"
 
-# "GPL" according to denix-grub2-theme.spec
-#   https://github.com/denix666/denix-grub2-theme/blob/master/denix-grub2-theme.spec
-# unclear which version and if background image convered
-#   https://github.com/denix666/denix-grub2-theme/issues
+# GPL v3 (and that only) including background image
+#   https://github.com/denix666/denix-grub2-theme/issues/1#issuecomment-69947149
 # no distro icons shipped
 # CC-BY-SA-3.0 since files are copied from starlight 1:1
-LICENSE="GPL-2 GPL-3 CC-BY-SA-3.0"
+LICENSE="GPL-3 CC-BY-SA-3.0"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"  # despite live ebuild
 IUSE=""
