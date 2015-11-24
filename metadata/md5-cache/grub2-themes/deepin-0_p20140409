@@ -1,0 +1,12 @@
+DEFINED_PHASES=install
+DESCRIPTION=Grub2 GFX theme Deepin
+EAPI=5
+HOMEPAGE=https://github.com/linuxdeepin/deepin-grub2-themes
+KEYWORDS=~amd64 ~x86
+LICENSE=all-rights-reserved
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=https://github.com/linuxdeepin/deepin-grub2-themes/archive/a089b317d0169ca13946ff0d9ef7383cfd893afd.tar.gz -> deepin-0_p20140409.tar.gz
+_eclass_exported_funcs=src_install:-
+_eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
+_md5_=2f7209b7e0386e7b7b1639a5979b9ac1

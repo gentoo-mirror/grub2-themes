@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Grub2 GFX theme Fagiada Bue
+EAPI=5
+HOMEPAGE=https://github.com/scaamanho/FagiadaBue
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3+ all-rights-reserved
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=https://github.com/scaamanho/FagiadaBue/archive/dcd0c969b4692713dd48e009dc765bdd67e199b7.tar.gz -> fagiada-bue-0_p20150320.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:-
+_eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
+_md5_=2328809fad27310d5b842bec6afaf479

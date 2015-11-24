@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Grub2 GFX theme Axiom
+EAPI=5
+HOMEPAGE=http://gnome-look.org/content/show.php/Axiom+Grub+2+Theme?content=146396
+KEYWORDS=~amd64 ~x86
+LICENSE=all-rights-reserved
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=https://dl.dropboxusercontent.com/u/40152532/GrubThemes/Axiom.tar.gz -> axiom-0_p20120508.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:-
+_eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
+_md5_=e6c75ea6880201b2d3d87ac01fde803b
