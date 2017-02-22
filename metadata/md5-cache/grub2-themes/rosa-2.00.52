@@ -8,5 +8,5 @@ LICENSE=GPL-3+
 SLOT=0
 SRC_URI=http://mirror.rosalab.ru/rosa/rosa2014.1/repository/SRPMS/main/release/grub2-theme-rosa-2.00-52.src.rpm http://file-store.rosalinux.ru/api/v1/file_stores/ed023d82532d53928f081248206267a8fae950c8 -> grub2-theme-rosa-2.00-52.src.rpm
 _eclass_exported_funcs=src_unpack:- src_install:-
-_eclasses_=eutils	ea170b525f6a38a006be05c9d9429f13	grub2-theme	2fa633f650852f950513520051a9f01d	multilib	165fc17c38d1b11dac2008280dab6e80	rpm	3e120fdd74b358f9fb42b825a6558f61	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	grub2-theme	2fa633f650852f950513520051a9f01d	multilib	165fc17c38d1b11dac2008280dab6e80	rpm	3e120fdd74b358f9fb42b825a6558f61	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=1275da5c0329a08dbe8bc81f46e248cb
