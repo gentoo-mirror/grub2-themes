@@ -8,5 +8,5 @@ LICENSE=GPL-3 CC-BY-SA-3.0
 RESTRICT=bindist mirror
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390	grub2-theme	2fa633f650852f950513520051a9f01d
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769	grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=b05a5e6f279015c63d6885229cabcef4
