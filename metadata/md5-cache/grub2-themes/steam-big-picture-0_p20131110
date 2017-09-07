@@ -7,6 +7,5 @@ LICENSE=MIT BitstreamVera ArevFonts
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme/archive/d5d255c7ebb15cc918540dc74422bffcad8c13cc.tar.gz -> steam-big-picture-0_p20131110.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=534abc4cebb867255cae90d52fa65dac

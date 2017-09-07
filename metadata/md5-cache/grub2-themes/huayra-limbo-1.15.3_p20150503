@@ -7,6 +7,5 @@ LICENSE=GPL-2+ all-rights-reserved
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/HuayraLinux/huayra-grub-themes/archive/ff7d4282f1702a7ef314f10b969925a0948f1cc4.tar.gz -> huayra-limbo-1.15.3_p20150503.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=dc37e3c02b784eb996b702ce1d37594b

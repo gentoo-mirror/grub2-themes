@@ -6,6 +6,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2+ all-rights-reserved
 SLOT=0
 SRC_URI=http://kde-look.org/CONTENT/content-files/168508-Eternity.tar.gz -> eternity-1.1e.tar.gz
-_eclass_exported_funcs=src_install:-
 _eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=e1d859c4763d1a3602fd9e00e3baf554

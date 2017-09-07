@@ -6,6 +6,5 @@ HOMEPAGE=https://github.com/nadrimajstor/grub2-themes-ubuntu-mate
 KEYWORDS=~amd64 ~x86
 LICENSE=CC-BY-SA-4.0 GPL-2+
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445	grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=bbbc8b096ff22c5243afec84d3133c89

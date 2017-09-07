@@ -8,6 +8,5 @@ LICENSE=MIT BitstreamVera ArevFonts public-domain CC0-1.0
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/vitalogy/grub2-theme-ask-larry/archive/0.2.0.tar.gz -> ask-larry-0.2.0.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=777add1a7df396f77697261422f5b396

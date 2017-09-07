@@ -7,6 +7,5 @@ LICENSE=GPL-2+ all-rights-reserved
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=http://lazybrowndog.net/debian/wheezy/journey/_grub-theme/journey-grub-theme.tar.gz -> journey-0_p20120415.tar.gz
-_eclass_exported_funcs=src_install:-
 _eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=a461a245fe90f45c7a0b4d3509c65c96

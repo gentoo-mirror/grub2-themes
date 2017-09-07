@@ -7,6 +7,5 @@ LICENSE=CC-BY-SA-4.0 GPL-2+
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/grOS-TEAM/grOS-Grub2-Themes/archive/f9219d09bf0d5443e1ce3926fcc4ecfc7a674421.tar.gz -> grOS-0_p20141203.tar.gz
-_eclass_exported_funcs=src_prepare:- src_install:-
 _eclasses_=grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=76a4b1f753c5b4163c9ffbbd6e5f955f
