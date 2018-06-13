@@ -1,5 +1,5 @@
 DEFINED_PHASES=install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Grub2 GFX theme Archxion
 EAPI=5
 HOMEPAGE=https://github.com/Generator/Grub2-themes
@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=all-rights-reserved
 RESTRICT=bindist mirror
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8	grub2-theme	2fa633f650852f950513520051a9f01d
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b	grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=0cb363376f69d69257da0316cf643bdd
