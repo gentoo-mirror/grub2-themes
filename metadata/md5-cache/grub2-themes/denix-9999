@@ -8,5 +8,5 @@ LICENSE=GPL-3 CC-BY-SA-3.0
 PROPERTIES=live
 RESTRICT=bindist mirror
 SLOT=0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd	grub2-theme	2fa633f650852f950513520051a9f01d
+_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=b05a5e6f279015c63d6885229cabcef4
