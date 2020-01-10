@@ -8,5 +8,5 @@ LICENSE=all-rights-reserved
 PROPERTIES=live
 RESTRICT=bindist mirror
 SLOT=0
-_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	grub2-theme	2fa633f650852f950513520051a9f01d
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33	grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=0cb363376f69d69257da0316cf643bdd
