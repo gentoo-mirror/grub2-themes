@@ -3,10 +3,11 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Grub2 GFX theme for DeniX OS
 EAPI=5
 HOMEPAGE=https://github.com/denix666/denix-grub2-theme
+INHERIT=git-r3 grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3 CC-BY-SA-3.0
 PROPERTIES=live
 RESTRICT=bindist mirror
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	grub2-theme	2fa633f650852f950513520051a9f01d
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52	grub2-theme	2fa633f650852f950513520051a9f01d
 _md5_=b05a5e6f279015c63d6885229cabcef4
