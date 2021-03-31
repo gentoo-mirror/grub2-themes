@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Grub2 GFX theme Air Vision
 EAPI=5
 HOMEPAGE=http://kde-look.org/content/show.php?content=169426
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2 GPL-3 all-rights-reserved
 RESTRICT=bindist mirror

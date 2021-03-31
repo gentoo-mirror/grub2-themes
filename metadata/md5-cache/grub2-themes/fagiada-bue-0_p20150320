@@ -2,6 +2,7 @@ DEFINED_PHASES=install prepare
 DESCRIPTION=Grub2 GFX theme Fagiada Bue
 EAPI=5
 HOMEPAGE=https://github.com/scaamanho/FagiadaBue
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+ all-rights-reserved
 RESTRICT=bindist mirror

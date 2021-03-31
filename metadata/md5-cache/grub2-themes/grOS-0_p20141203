@@ -2,6 +2,7 @@ DEFINED_PHASES=install prepare
 DESCRIPTION=Grub2 GFX theme grOS
 EAPI=5
 HOMEPAGE=https://github.com/grOS-TEAM/grOS-Grub2-Themes
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=CC-BY-SA-4.0 GPL-2+
 RESTRICT=bindist mirror

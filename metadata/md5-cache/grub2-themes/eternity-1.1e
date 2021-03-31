@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Grub2 GFX theme Eternity
 EAPI=5
 HOMEPAGE=http://kde-look.org/content/show.php?content=168508
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2+ all-rights-reserved
 SLOT=0

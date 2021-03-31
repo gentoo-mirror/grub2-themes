@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Grub2 GFX theme Deepin
 EAPI=5
 HOMEPAGE=https://github.com/linuxdeepin/deepin-grub2-themes
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=all-rights-reserved
 RESTRICT=bindist mirror

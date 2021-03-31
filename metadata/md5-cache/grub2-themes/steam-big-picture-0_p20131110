@@ -2,6 +2,7 @@ DEFINED_PHASES=install prepare
 DESCRIPTION=Grub2 GFX theme Steam Big Picture
 EAPI=5
 HOMEPAGE=https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT BitstreamVera ArevFonts
 RESTRICT=bindist mirror

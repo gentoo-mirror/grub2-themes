@@ -2,6 +2,7 @@ DEFINED_PHASES=install prepare
 DESCRIPTION=Grub2 GFX theme ask-larry
 EAPI=5
 HOMEPAGE=https://github.com/vitalogy/grub2-theme-ask-larry
+INHERIT=grub2-theme
 IUSE=widescreen
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT BitstreamVera ArevFonts public-domain CC0-1.0

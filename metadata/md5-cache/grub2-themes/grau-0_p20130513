@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Grub2 GFX theme Grau
 EAPI=5
 HOMEPAGE=http://gnome-look.org/content/show.php/Grau+GRUB+Theme?content=158610
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=CC-BY-NC-SA-3.0 all-rights-reserved
 RESTRICT=bindist mirror

@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Grub2 GFX theme Journey
 EAPI=5
 HOMEPAGE=http://lazybrowndog.net/debian/wheezy/journey/grub.html
+INHERIT=grub2-theme
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2+ all-rights-reserved
 RESTRICT=bindist mirror
